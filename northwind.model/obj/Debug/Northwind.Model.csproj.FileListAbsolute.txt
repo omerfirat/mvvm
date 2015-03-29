@@ -1,0 +1,7 @@
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Model\bin\Debug\Northwind.Model.dll
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Model\bin\Debug\Northwind.Model.pdb
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Model\obj\Debug\Northwind.Model.dll
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Model\obj\Debug\Northwind.Model.pdb
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Model\bin\Debug\PropertyChanged.dll
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Model\bin\Debug\PropertyChanged.xml
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Model\obj\Debug\Northwind.Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Forms", "Northwind.Forms\Northwind.Forms.csproj", "{359FAC16-4B16-4F18-BE7F-02CDA0381A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Data", "Northwind.Data\Northwind.Data.csproj", "{36A32412-D8E8-4271-A14C-AA13EC4B481E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359FAC16-4B16-4F18-BE7F-02CDA0381A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{359FAC16-4B16-4F18-BE7F-02CDA0381A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{359FAC16-4B16-4F18-BE7F-02CDA0381A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{359FAC16-4B16-4F18-BE7F-02CDA0381A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36A32412-D8E8-4271-A14C-AA13EC4B481E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36A32412-D8E8-4271-A14C-AA13EC4B481E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36A32412-D8E8-4271-A14C-AA13EC4B481E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36A32412-D8E8-4271-A14C-AA13EC4B481E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

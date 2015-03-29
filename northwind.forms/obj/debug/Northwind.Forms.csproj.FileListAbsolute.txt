@@ -1,0 +1,143 @@
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\App_Data\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.exe.config
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.exe
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.pdb
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\EntityFramework.dll
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\Northwind.Data.dll
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\Util.Wpf.Common.Library.dll
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\Northwind.Data.pdb
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\EntityFramework.xml
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.csprojResolveAssemblyReference.cache
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\obj\Debug\App.g.cs
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms_MarkupCompile.cache
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms_MarkupCompile.lref
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.g.resources
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.Properties.Resources.resources
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.csproj.GenerateResource.Cache
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.exe
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.pdb
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\obj\Debug\MainWindow.g.cs
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\obj\Debug\MainWindow.baml
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\obj\Debug\View\Orders.baml
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Forms\obj\Debug\View\Orders.g.cs
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.exe.config
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.exe
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\App_Data\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.exe
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\EntityFramework.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Northwind.Data.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Util.Wpf.Common.Library.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Northwind.Data.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\EntityFramework.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.csprojResolveAssemblyReference.cache
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\MainWindow.g.cs
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\View\Orders.g.cs
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\App.g.cs
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms_MarkupCompile.cache
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms_MarkupCompile.lref
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\MainWindow.baml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\View\Orders.baml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.g.resources
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.Properties.Resources.resources
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.csproj.GenerateResource.Cache
+O:\YGM\8498OFIR\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.exe.config
+O:\YGM\8498OFIR\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.exe
+O:\YGM\8498OFIR\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\App_Data\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.exe.config
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.exe
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\EntityFramework.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Northwind.Data.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Util.Wpf.Common.Library.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\Northwind.Data.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\EntityFramework.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.csprojResolveAssemblyReference.cache
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\MainWindow.g.cs
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\View\Orders.g.cs
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\App.g.cs
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms_MarkupCompile.cache
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms_MarkupCompile.lref
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\MainWindow.baml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\View\Orders.baml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.g.resources
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.Properties.Resources.resources
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.csproj.GenerateResource.Cache
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.exe
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.exe.config
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.exe
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\App_Data\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.exe
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\EntityFramework.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\Northwind.Data.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\Util.Wpf.Common.Library.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\Northwind.Data.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\EntityFramework.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.csprojResolveAssemblyReference.cache
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\obj\Debug\MainWindow.g.cs
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\obj\Debug\View\Orders.g.cs
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\obj\Debug\App.g.cs
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms_MarkupCompile.cache
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms_MarkupCompile.lref
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\obj\Debug\MainWindow.baml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\obj\Debug\View\Orders.baml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.g.resources
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.Properties.Resources.resources
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.csproj.GenerateResource.Cache
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\Northwind40.sdf
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\App_Data\Northwind40.sdf
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.exe.config
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.exe
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\Northwind.Forms.pdb
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\EntityFramework.dll
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\Northwind.Data.dll
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\Util.Wpf.Common.Library.dll
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\Northwind.Data.pdb
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\EntityFramework.xml
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\obj\Debug\MainWindow.baml
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\obj\Debug\MainWindow.g.cs
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\obj\Debug\App.g.cs
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms_MarkupCompile.cache
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms_MarkupCompile.lref
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.g.resources
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.Properties.Resources.resources
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.csproj.GenerateResource.Cache
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.exe
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\obj\Debug\Northwind.Forms.pdb
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\obj\Debug\View\Orders.g.cs
+C:\Users\Ömer\Desktop\Northwind\Northwind.Forms\obj\Debug\View\Orders.baml

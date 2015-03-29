@@ -1,0 +1,62 @@
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Data\bin\Debug\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Data\bin\Debug\App_Data\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Data\bin\Debug\Northwind.Data.dll.config
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Data\bin\Debug\EntityFramework.dll
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Data\bin\Debug\Util.Wpf.Common.Library.dll
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Data\bin\Debug\EntityFramework.xml
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Data\obj\Debug\Northwind.Data.pdb
+C:\Users\8498ofir\Desktop\Northwind\Northwind\Northwind.Data\obj\Debug\Northwind.Data.csprojResolveAssemblyReference.cache
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\App_Data\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\Northwind.Data.dll.config
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\EntityFramework.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\Util.Wpf.Common.Library.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\EntityFramework.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\Northwind DataGrid\Northwind\Northwind.Data\obj\Debug\Northwind.Data.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\App_Data\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\Northwind.Data.dll.config
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\EntityFramework.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\Util.Wpf.Common.Library.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\EntityFramework.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid\Northwind\Northwind.Data\obj\Debug\Northwind.Data.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Data\bin\Debug\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Data\bin\Debug\App_Data\Northwind40.sdf
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Data\bin\Debug\Northwind.Data.dll.config
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Data\bin\Debug\EntityFramework.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Data\bin\Debug\Util.Wpf.Common.Library.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Data\bin\Debug\EntityFramework.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Data\obj\Debug\Northwind.Data.csprojResolveAssemblyReference.cache
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\Users\8498ofir\Desktop\Wpf Çalışmalarım\WPF\Northwind DataGrid AutoGenerateColumFalse\Northwind\Northwind.Data\obj\Debug\Northwind.Data.pdb
+C:\Users\Ömer\Desktop\Northwind\Northwind.Data\bin\Debug\Northwind40.sdf
+C:\Users\Ömer\Desktop\Northwind\Northwind.Data\bin\Debug\App_Data\Northwind40.sdf
+C:\Users\Ömer\Desktop\Northwind\Northwind.Data\bin\Debug\Northwind.Data.dll.config
+C:\Users\Ömer\Desktop\Northwind\Northwind.Data\bin\Debug\Northwind.Data.dll
+C:\Users\Ömer\Desktop\Northwind\Northwind.Data\bin\Debug\Northwind.Data.pdb
+C:\Users\Ömer\Desktop\Northwind\Northwind.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ömer\Desktop\Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ömer\Desktop\Northwind\Northwind.Data\bin\Debug\Util.Wpf.Common.Library.dll
+C:\Users\Ömer\Desktop\Northwind\Northwind.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ömer\Desktop\Northwind\Northwind.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ömer\Desktop\Northwind\Northwind.Data\obj\Debug\Northwind.Data.dll
+C:\Users\Ömer\Desktop\Northwind\Northwind.Data\obj\Debug\Northwind.Data.pdb
